@@ -8,7 +8,7 @@ This code is based on my understanding of the algorithms described in the work o
 
 The code is meant for use as supporting materials for an academic paper of mine - currently unpublished but available as a preprint at http://dx.doi.org/10.2139/ssrn.3622934 
 
-There are few options to implement the computational structure of ISM. Luckily the J.N. Warfield IP trust is kind enough to provide ISM software free of charge (see: https://www.jnwarfield.com/ism-software.html). Yet the software is not open source.
+There are few options to implement the computational structure of ISM. Luckily the J.N. Warfield IP Trust kindly provides ISM software free of charge (see: https://www.jnwarfield.com/ism-software.html). Yet the software is not open source.
 
 This code is my two pennies worth contribution to making ISM available to those interested in
 - looking under the hood of this technique
