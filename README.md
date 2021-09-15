@@ -14,3 +14,5 @@ This code is my two pennies worth contribution to making ISM available to those 
 - looking under the hood of this technique
 - reclaim the rigour of the original procedures, which is lost in the incumbent academic literature (more about this in my paper); 
 - explore surprising, but unnoticed similarities with other well-known algorithms e.g. strongly connected components in a digraph; block-triangular permutation of the corresponding adjacency matrix.
+
+Re the last point above - this code includes a function for finding strongly connected components by Depth-First Search, which is borrowed from the repository Tarjan_SCC_in_R
