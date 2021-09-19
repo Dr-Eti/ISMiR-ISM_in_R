@@ -1,5 +1,5 @@
 # ISMiR-ISM_in_R
-A graph-partitioning algorithm that results in a minimal-edge, hierarchical digraph which preserves the reachability properties of the given initial digraph. This algorithm used to be a major part of Interpretive Structural Modelling (ISM). I am referring to the algorithms described in the work of J.N Warfield, specifically
+A graph-partitioning algorithm whose output is a minimal-edge, hierarchical digraph which preserves the reachability properties of the given initial digraph. This algorithm used to be a major part of Interpretive Structural Modelling (ISM). I am referring to the algorithms described in the work of J.N Warfield, specifically
 - Warfield (1976) Societal Systems ISBN 0-471-01569-5 esp. Ch.9 and 10
 - Warfield (1974) 10.1109/TSMC.1974.4309336
 - Warfield (1973) doi 10.1109/TSMC.1973.4309270
