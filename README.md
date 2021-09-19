@@ -1,10 +1,10 @@
 # ISMiR-ISM_in_R
-Interpretive Structural Modelling (ISM) from scratch. 
-
-This code is based on my understanding of the algorithms described in the work of J.N Warfield, specifically
+A graph-partitioning algorithm that results in a minimal-edge, hierarchical digraph which is equivalent to a given initial digraph. This algorithm used to be a major part of Interpretive Structural Modelling (ISM). I am referring to the algorithms described in the work of J.N Warfield, specifically
 - Warfield (1976) Societal Systems ISBN 0-471-01569-5 esp. Ch.9 and 10
 - Warfield (1974) 10.1109/TSMC.1974.4309336
 - Warfield (1973) doi 10.1109/TSMC.1973.4309270
+
+Today the term ISM means something different - thanks to academics who decided to strip ISM off its most fundamental algorithm and algebraic devices, opening the door for that pile of rubbish we call academic research in ISM today. Think I'm being too harsh? Pick any paper published in the last twenty-odd years and find out by yourself (hint: look for the mystical "conical" matrix - as in shaped as a cone - and you'll find out it's not a typo).
 
 The code is meant for use as supporting materials for an academic paper of mine - currently unpublished but available as a preprint at http://dx.doi.org/10.2139/ssrn.3622934 
 
