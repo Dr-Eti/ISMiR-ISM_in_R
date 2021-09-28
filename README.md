@@ -7,7 +7,7 @@ This R code explores an old graph-partitioning algorithm. The algorithm's end-go
 - Warfield (1973) doi 10.1109/TSMC.1973.4309270
 
 ## What's the point?
-I kid you now - but today the term ISM means something different. Over the past decades, academics have unilaterally decided to strip ISM off its most fundamental algorithm and algebraic devices. This lazy behaviour opened the door for that pile of steaming rubbish we call academic research in ISM today. Think I'm being too harsh? Pick any paper published in the last twenty-odd years and find out by yourself (hint: look for the mystical "conical" matrix - as in shaped as a cone - and you'll find out it's not a typo).
+Today the term ISM has mutated - and now refers to some wishy-washy parody of the original, rigorous approach. Over the past decades, academics have unilaterally decided to strip ISM off its most fundamental algorithm and algebraic devices. This lazy behaviour opened the door for that pile of steaming rubbish we call academic research in ISM today. Think I'm being too harsh? Pick any paper published in the last twenty-odd years and find out by yourself (hint: look for the mystical "conical" matrix - as in shaped as a cone - and you'll find out it's not a typo).
 
 I dig deeper into this murky academic business in an academic paper of mine - currently unpublished but available as a preprint at http://dx.doi.org/10.2139/ssrn.3622934 . 
 The code is meant for use as supporting materials for such paper.
