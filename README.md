@@ -17,7 +17,7 @@ There are not many options that I know of to implement ISM calculations transpar
 
 Therefore, this code is my two pennies worth contribution to making ISM available to those interested in
 - looking under the hood of this technique
-- reclaim the rigour of the original procedures, which is lost in the incumbent academic literature (more about this in my paper); 
+- reclaim the rigour of the original procedures, which is lost in the incumbent academic literature - I think; 
 
 ## Easter egg (-ish) for academic geeks
 The code explores surprising, but unnoticed similarities with other well-known algorithms. Namely, the code includes a function for finding strongly connected components (SCC) by Depth-First Search, which is borrowed from my other repository Tarjan_SCC_in_R.  It also provides a block-triangular permutation of the corresponding adjacency matrix.
