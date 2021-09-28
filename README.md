@@ -18,7 +18,7 @@ There are not many options that I know of to implement ISM calculations transpar
 Therefore, this code is my two pennies worth contribution to making ISM available to those interested in
 - looking under the hood of this technique
 - reclaim the rigour of the original procedures, which is lost in the incumbent academic literature (more about this in my paper); 
-- explore surprising, but unnoticed similarities with other well-known algorithms e.g. strongly connected components in a digraph; block-triangular permutation of the corresponding adjacency matrix.
 
 ## Easter egg (-ish) for academic geeks
-Re the last point above - this code includes a function for finding strongly connected components (SCC) by Depth-First Search, which is borrowed from the repository Tarjan_SCC_in_R. I'm not expecting you to get too excited to learn that there's lots in common between ISM and finding SCC by DFS. Tell the academics I mentioned above - who still work that stuff out in every ISM paper like it's 1973... and get published.
+The code explores surprising, but unnoticed similarities with other well-known algorithms. Namely, it code includes a function for finding strongly connected components (SCC) by Depth-First Search, which is borrowed from the repository Tarjan_SCC_in_R.  It also provides a block-triangular permutation of the corresponding adjacency matrix.
+I'm not expecting you to get too excited to learn that there's lots in common between ISM; finding SCC in a digraph by DFS; and working out a block triangular permutation of the adjacency matrix of said digraph. But don't tell the academics I mentioned above - I love to see them working stuff out in every ISM paper without a clue of what on earth they're actually trying to do - something that an algorithm could do in a split second. Let them sweat that out. Too bad journal editors are just as clueless and, thanks to the collusion between them, those copy-paste papers keep getting published.
