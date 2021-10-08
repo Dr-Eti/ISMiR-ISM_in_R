@@ -7,10 +7,7 @@ This R code explores an old graph-partitioning algorithm. The algorithm's end-go
 - Warfield (1973) doi 10.1109/TSMC.1973.4309270
 
 ## What's the point?
-Today the term ISM has mutated - and now refers to some wishy-washy parody of the original, rigorous approach. Over the past decades, academics have unilaterally decided to strip ISM off its most characteristic computational devices. As rigour decreased, the number of publications claiming to apply ISM grew (or vice versa? but I digress...). Long story short, published ISM research today amounts to little more than a pile rubbish - in my estimation. Think I'm being too harsh? Pick any paper published in the last twenty-odd years and find out by yourself (hint: look for the mystical "conical" matrix - as in "shaped as a cone" - and you'll find out it's not a typo).
-
-Enough digressing - but for more rants feel free to dig some work in progress of mine, available as a preprint at http://dx.doi.org/10.2139/ssrn.3622934 . 
-Utilmately, the code is meant for use as supporting materials for such paper.
+Today the term ISM has mutated - and now refers to some wishy-washy parody of the original, rigorous approach. Over the past decades, academics have unilaterally decided to strip ISM off its most characteristic computational devices. As rigour decreased, the number of publications claiming to apply ISM grew (or vice versa? but I digress...). Long story short, i am wary of published ISM research today. For a better articulated rant feel free to dig some work in progress of mine, available as a preprint at http://dx.doi.org/10.2139/ssrn.3622934 Utilmately, the code is meant for use as supporting materials for such paper.
 
 ## If this is old stuff, isn't there something else out there that does it?
 There are not many options that I know of to implement ISM calculations transparently on a computer. The J.N. Warfield IP Trust kindly provides ISM software free of charge (see: https://www.jnwarfield.com/ism-software.html). Yet the software is not open source and I'm not sure which parts of the original algorithm are implemented - if any - and how.
