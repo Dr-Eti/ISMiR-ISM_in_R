@@ -1,7 +1,7 @@
 # ISMiR: Interpretive Structural Modelling (ISM) in R
 
 ## What is it?
-This R code explores an old graph-partitioning algorithm. The algorithm's end-goal is to find a minimal-edge, hierarchical digraph which preserves the reachability properties of a given digraph. This algorithm used to be a major part of Interpretive Structural Modelling (ISM). I am referring specficially the algorithms described in the work of J.N Warfield:
+This R code explores an old graph-partitioning algorithm. The algorithm's end-goal is to find a minimal-edge, hierarchical digraph which preserves the reachability properties of a given digraph. This algorithm used to be a major part of Interpretive Structural Modelling (ISM). I am referring specficially to the algorithms described in the work of J.N Warfield:
 - Warfield (1976) Societal Systems ISBN 0-471-01569-5 esp. Ch.9 and 10
 - Warfield (1974) 10.1109/TSMC.1974.4309336
 - Warfield (1973) doi 10.1109/TSMC.1973.4309270
